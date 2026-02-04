@@ -44,6 +44,7 @@ DVWA allows dynamic adjustment of its security level to simulate different vulne
 - **Impossible** → Fully patched, secure mode
 
 This feature enables testing across multiple difficulty levels.
+<img width="1075" height="632" alt="image" src="https://github.com/user-attachments/assets/83ea1e88-1b2f-43a9-afc3-e4e6a56985e7" />
 
 ---
 
@@ -61,6 +62,7 @@ After successful authentication, the DVWA dashboard provides access to multiple 
 - Weak Session IDs
 
 These modules are used for realistic attack simulation and defensive monitoring.
+<img width="787" height="762" alt="image" src="https://github.com/user-attachments/assets/6414850f-1f3c-481f-9d65-20174d365574" />
 
 ---
 
@@ -77,6 +79,8 @@ The DVWA environment is hosted on an **Apache Web Server** with the following co
 - **Database Name:** `dvwa`
 - **Database User:** `aditya`
 - **Database Port:** `3306`
+- 
+<img width="597" height="552" alt="image" src="https://github.com/user-attachments/assets/a625ae49-6812-4ed9-bbed-32ea07960d25" />
 
 ---
 
